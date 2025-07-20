@@ -4,8 +4,7 @@
 
 This is a simple and interactive **Iris Flower Classification** app built using **Streamlit** and deployed on **Streamlit Community Cloud**.
 
-🚀 **Live Demo**: [Click to Launch App](https://simple-iris-flower-prediction-app.streamlit.app/)
-
+🚀 **Live Demo**: [Click to Launch App](https://simple-iris-flower-prediction-app.streamlit.app/) or https://simple-iris-flower-prediction-app.streamlit.app/
 ---
 
 ## 📌 About the App
